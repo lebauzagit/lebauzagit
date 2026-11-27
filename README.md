@@ -8,11 +8,18 @@
 
 *Building reliable systems, connecting ideas, and making complexity manageable.*
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=black)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/luchofullstk/)
 
 </div>
 
@@ -46,11 +53,12 @@ const engineeringMindset = {
 
 | Domain | Technologies |
 | :--- | :--- |
+| **Languages** | JavaScript · TypeScript · C# · PHP |
 | **Backend** | TypeScript · Node.js · NestJS · REST APIs · Swagger / OpenAPI |
 | **Data & persistence** | MongoDB · Mongoose · PostgreSQL · Prisma · TypeORM |
 | **Asynchronous processing** | Redis · BullMQ · Background workers |
 | **Security** | Passport.js · JWT · Authentication & authorization |
-| **Frontend** | Vue 3 · Nuxt · Nuxt UI · Tailwind CSS · Pinia · TanStack Query |
+| **Frontend** | Vue.js (Vue 3) · Nuxt · Nuxt UI · Tailwind CSS · Pinia · TanStack Query |
 | **Infrastructure & tooling** | Docker · Linux · Git · GitHub Actions · pnpm · PowerShell |
 | **Documentation & automation** | Nuxt Content · Figma REST API · Playwright · pdfmake |
 | **Currently exploring** | Flutter · Dart · AI-assisted development · MCP |
