@@ -2,7 +2,7 @@
 
 # Luis Bauza
 
-### Backend Developer · Full Stack Background
+### Full Stack Developer · Backend Engineering & Software Architecture
 
 **Beyond the interface. Into the architecture.**
 
@@ -19,7 +19,7 @@
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=black)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/luchofullstk/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20projects-0369A1?style=for-the-badge)](https://lebauzagit.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/lebauzagit/)
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ## A little about me
 
-I am a software developer with a frontend background and a growing focus on backend engineering. I enjoy understanding what happens behind the interface: how data flows, how services communicate, and how systems behave when things do not go as planned.
+I am a full stack developer with a frontend background and a focus on backend engineering, event-driven systems, and software architecture. I enjoy understanding what happens behind the interface: how data flows, how services communicate, and how systems behave when things do not go as planned.
 
 My work revolves around SaaS applications, API development, asynchronous processing, and developer automation. I approach software as a continuous process of learning, questioning assumptions, and improving what already exists.
 
@@ -58,7 +58,7 @@ const engineeringMindset = {
 | **Data & persistence** | MongoDB · Mongoose · PostgreSQL · Prisma · TypeORM |
 | **Asynchronous processing** | Redis · BullMQ · Background workers |
 | **Security** | Passport.js · JWT · Authentication & authorization |
-| **Frontend** | Vue.js (Vue 3) · Nuxt · Nuxt UI · Tailwind CSS · Pinia · TanStack Query |
+| **Frontend** | Vue.js (Vue 3) · Nuxt · Nuxt UI · Astro · Tailwind CSS · Pinia · TanStack Query |
 | **Infrastructure & tooling** | Docker · Linux · Git · GitHub Actions · pnpm · PowerShell |
 | **Documentation & automation** | Nuxt Content · Figma REST API · Playwright · pdfmake |
 | **Currently exploring** | Flutter · Dart · AI-assisted development · MCP |
