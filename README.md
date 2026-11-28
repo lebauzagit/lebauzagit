@@ -17,6 +17,7 @@
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20projects-0369A1?style=for-the-badge)](https://lebauzagit.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/lebauzagit/)
